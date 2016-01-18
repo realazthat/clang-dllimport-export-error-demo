@@ -11,7 +11,7 @@ Can see build log under windows/msys2/mingw-w64/clang on appveyor here:
 
 Branch  | Status
 ---     | ---
-master  | [![Build Status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)](https://ci.appveyor.com/project/realazthat/clang-dllimport-export-error-demo)
+master  | [![Build Status](https://ci.appveyor.com/api/projects/status/kdp5x82x2iw3pxlp?svg=true)](https://ci.appveyor.com/project/realazthat/clang-dllimport-export-error-demo)
 
 
 Build log output ([from here](https://ci.appveyor.com/project/realazthat/clang-dllimport-export-error-demo/build/1.0.2#L320), line 320):
