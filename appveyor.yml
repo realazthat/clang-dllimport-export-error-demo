@@ -24,10 +24,7 @@ install:
 build_script:
 - ps: >-
     bash -c @"
-        set -exv
-
         bash appveyor/build.sh
-
     "@
 
     
