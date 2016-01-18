@@ -14,7 +14,7 @@ Branch  | Status
 master  | [![Build Status](https://ci.appveyor.com/api/projects/status/kdp5x82x2iw3pxlp?svg=true)](https://ci.appveyor.com/project/realazthat/clang-dllimport-export-error-demo)
 
 
-Build log output ([from here](https://ci.appveyor.com/project/realazthat/clang-dllimport-export-error-demo/build/1.0.2#L320), line 320):
+Build log output ([from here](https://ci.appveyor.com/project/realazthat/clang-dllimport-export-error-demo/build/1.0.5#L310), line 310):
 
 ```
 [100%] Linking CXX shared library libmylib.dll
@@ -41,7 +41,6 @@ Makefile:86: recipe for target 'all' failed
 make: *** [all] Error 2
  
 Command executed with exception: make: *** [all] Error 2
- 
 ```
 
 
